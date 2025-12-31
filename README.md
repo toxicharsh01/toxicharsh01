@@ -25,7 +25,7 @@
 ---
 
 ## 💡 Learning Goals
-- Build small MERN applications for practice  
+- Build MERN applications for practice  
 - Solve at least 2–3 DSA problems daily in C++  
 - Learn Docker basics and implement CI/CD pipelines  
 
