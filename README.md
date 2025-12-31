@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Harsh
 
-<!--
-**toxicharsh01/toxicharsh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring MERN Stack Developer  
+🧠 DSA in C++  
+⚙️ DevOps Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** C++, JavaScript
+- **DSA:** Arrays, Strings, Linked List, Stack, Queue (in progress)
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Linux
+- **DevOps:** Docker, CI/CD (learning)
+
+---
+
+## 📚 Currently Learning
+- Advanced DSA (C++)
+- MERN Stack Projects
+- DevOps Fundamentals
+
+---
+
+## 💡 Learning Goals
+- Build small MERN applications for practice  
+- Solve at least 2–3 DSA problems daily in C++  
+- Learn Docker basics and implement CI/CD pipelines  
+
+---
+
+## 📫 Connect With Me
+- GitHub: [toxicharsh01](https://github.com/toxicharsh01)  
+- LinkedIn: www.linkedin.com/in/harsh-code-it  
+- LeetCode:  
+
+---
+
+## ⚡ Fun / Learning Motto
+> “Build skills • Solve problems • Learn daily”
