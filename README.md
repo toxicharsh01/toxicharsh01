@@ -33,7 +33,7 @@
 
 ## 📫 Connect With Me
 - GitHub: [toxicharsh01](https://github.com/toxicharsh01)  
-- LinkedIn: www.linkedin.com/in/harsh-code-it  
+- LinkedIn: www.linkedin.com/in/toxicharsh01  
 - LeetCode: https://leetcode.com/u/toxicharsh01/ 
 
 ---
