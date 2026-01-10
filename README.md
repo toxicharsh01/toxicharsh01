@@ -8,7 +8,7 @@
 
 ## 🛠 Tech Stack
 - **Languages:** C++, JavaScript
-- **DSA:** Arrays, Strings, Linked List, Stack, Queue (in progress)
+- **DSA:** Arrays, Strings, Linked List, Stack, Queue.
 - **Frontend:** HTML, CSS, React
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
@@ -18,8 +18,8 @@
 ---
 
 ## 📚 Currently Learning
-- Advanced DSA (C++)
 - MERN Stack Projects
+- Advanced DSA (C++)
 - DevOps Fundamentals
 
 ---
